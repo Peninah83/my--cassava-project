@@ -1,13 +1,18 @@
 body{
     background: beige;
 }
-h1{
+
+h1,
+p{
     text-align: center;
-    color: green;
 }
-a{
+footer {
+    text-align: center;
+}
+footer a {
+    margin: 0 10px;
+    color:green;
+}
+h1{
     color:brown;
-}
-img{
-    width: 100px;
 }
